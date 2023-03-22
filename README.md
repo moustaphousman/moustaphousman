@@ -8,5 +8,5 @@
 ## Old Projects
 - [x] Muliple choice question for technical knowledge testing, using XML and Javascript, (https://github.com/taphams/multiple-choice-tests)
 ## Presence in the web
-And old school guy, from IRC, MSN messenger and Hi5, to Warez and Forum :fire:
+An old school guy, from IRC, MSN messenger and Hi5, to Warez and Forum :fire:
 
