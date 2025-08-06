@@ -7,6 +7,3 @@
 *They're private, lol :smiley:*
 ## Old Projects
 - [x] Muliple choice question for technical knowledge testing, using XML and Javascript, (https://github.com/taphams/multiple-choice-tests)
-## Presence in the web
-An old school guy, from IRC, MSN messenger and Hi5, to Warez and Forum :fire:
-
