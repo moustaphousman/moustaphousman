@@ -1,8 +1,9 @@
-### Hi there 👋 I'm Moustapha Ousman
+# 👋 Moustapha Ousman Moustapha
 
-I am a Software Engineer dedicated to crafting robust user experiences through **clean code and clear documentation**.
+### 💻 IT Professional | Fullstack Dev & CRM/ERP Administrator
 
-My work bridges the gap between technical implementation and strategic application of digital technology, making me a valuable contributor to digitalization efforts.
+A results-driven IT professional specialized in software architecture, enterprise CRM/ERP solutions, and systems administration
 
-- 💼 Find me on: [LinkedIn](https://www.linkedin.com/in/moustaphousman)
-- 💬 Ask me about: UX engineering, code quality standards, or documentation best practices.
+- **Enterprise & CRM/ERP:** Salesforce, SAP, ServiceNow, Workday Development
+- **Backend, Cloud & DevOps:** AWS, Docker, K8s (Kubernetes), CI/CD (Jenkins), Java, Spring Boot, MySQL, Oracle
+- **Frontend & Management:** React.js, Next.js, Project Management & Risk Analysis
