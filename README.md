@@ -1,9 +1,10 @@
 # 👋 Moustapha Ousman Moustapha
 
-### 💻 IT Professional | Fullstack Dev & CRM/ERP Administrator
+### 💻 Software Engineer | Java 21 Certified (OCP) • AWS & ServiceNow Certified • React Developer
 
-A results-driven IT professional specialized in software architecture, enterprise CRM/ERP solutions, and systems administration
+A results-driven IT professional specialized in software architecture, enterprise CRM/ERP solutions, and systems administration.
 
-- **Enterprise & CRM/ERP:** Salesforce, SAP, ServiceNow, Workday Development
-- **Backend, Cloud & DevOps:** AWS, Docker, K8s (Kubernetes), CI/CD (Jenkins), Java, Spring Boot, MySQL, Oracle
+- **Backend, Cloud & DevOps:** Java 21 (OCP), Spring Boot, AWS, Docker, K8s (Kubernetes), CI/CD (Jenkins), MySQL, Oracle
+- **Enterprise & CRM/ERP:** ServiceNow, Salesforce, SAP, Workday Development
 - **Frontend & Management:** React.js, Next.js, Project Management & Risk Analysis
+
